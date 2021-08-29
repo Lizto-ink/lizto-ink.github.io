@@ -1,7 +1,7 @@
 # Site settings
 title: LIME TIME
 SEOTitle: LIME TIME
-header-img: Konachan.com - 330712 blush book drink ogipote original ponytail reflection school_uniform.jpg
+header-img: img/Konachan.com - 330712 blush book drink ogipote original ponytail reflection school_uniform.jpg
 email: liztowash@gmail.com
 description: "Every failure is leading towards success."
 keyword: ""
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Lizto-ink/lizto-ink.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "允许访问"
-sidebar-avatar: /img/QQ截图20210406221437.png     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/QQ截图20210406221437.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
